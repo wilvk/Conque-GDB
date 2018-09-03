@@ -4,6 +4,8 @@ This is an event-driven gdb emulator to provide buffers for different components
 
 This is based on a fork of https://github.com/vim-scripts/Conque-GDB
 
+Som inspiration is (will) be taken from https://github.com/cyrus-and/gdb-dashboard
+
 # Installation
 
 Use your favourite Vim plugin manager and this repository `wilvk/vim-gdb-asm` to install.
